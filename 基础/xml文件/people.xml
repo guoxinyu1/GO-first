@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<peoples version="0.9"><!--根节点-->
+    <people id="1">  <!--属性节点-->
+        <name>张三</name><!--元素节点-->
+        <address>北京海淀</address>
+    </people>
+    <people id="2">
+        <name>李四</name>
+        <address>北京朝阳</address>
+    </people>
+
+</peoples>
