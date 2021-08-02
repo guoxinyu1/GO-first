@@ -4,8 +4,4 @@
 
 ## 心得：分析beego执行流程，观察终端运行。还有方法名成灰色代表没有使用。
 
-![1595347343305](C:\Users\ADMINI~1\AppData\Local\Temp\1595347343305.png)
-
 ## 错误2：执行models.InsertUser(user)方法失败。原因：user的id属性有非空限制，没有给默认值。解决方法：navicat将id属性设为自增。
-
-![1595347919292](C:\Users\ADMINI~1\AppData\Local\Temp\1595347919292.png)
